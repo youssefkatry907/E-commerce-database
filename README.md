@@ -4,12 +4,12 @@ This document outlines the conceptual and logical design for the e-commerce data
 
 ## 1. Entity-Relationship Diagram (ERD)
 
-![alt text](image.png)
+<img src="images/Erd.png" alt="Entity-Relationship Diagram" width="800">
 
 ## 2. Database Schema
 
 The following scripts create the necessary tables in a PostgreSQL vendor.
 
-![Database Schema](schema.png)
+<img src="images/Schema.png" alt="Database Schema" width="800">
 
 
