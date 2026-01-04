@@ -24,3 +24,14 @@ a specific date.
 products in a given month. 
 
 <img src="images/Monthly-Top-Selling-Report.png" alt="Monthly Top-Selling Report" width="800">
+
+3 - Write a SQL query to retrieve a list of customers who have placed 
+orders totalling more than $500 in the past month. Include customer 
+names and their total order amounts.
+
+<img src="images/Previous-Month-Report.png" alt="Previous Month Report" width="800">
+
+4 - Write a SQL query to search for all products with the word "camera" 
+in either the product name or description.
+
+<img src="images/Products-Search.png" alt="Products Search Query" width="800">
